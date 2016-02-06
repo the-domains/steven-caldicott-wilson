@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[oratorio tenor / voice coach / cocktail and cabaret pianist]]></title>
+        <description><![CDATA[oratorio tenor / voice coach / cocktail and cabaret pianist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Feb 2016 21:24:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Tenor Steven Caldicott Wilson is a member of the male classical a cappella quartet New York Polyphony, and frequently appears as soloist and small ensemble singer with leading conductors. He has been praised for his "steadiness and sensitivity…impassioned without ever straining” (NY Times, December 2015) and “powerful, polished and moving Evangelist" (NY Times, April 2011). Recent solo highlights include the title role in Britten’s St. Nicholas at Trinity Wall Street; Bach’s St. John Passion at Alice Tully Hall; Monteverdi’s Vespers with Paul O’Dette; soloist in Bach’s St. John Passion and multiple Bach cantata solo appearances with Trinity Baroque Orchestra NYC; Evangelist in C.P.E. Bach’s Matthew Passion; Ensemble Caprice in Montreal and The Metropolitan Museum of Art NYC; Messiah at Lincoln Center; J.S. Bach’s Matthew Passion at Carnegie Hall.  </p></article>]]></description>
+            <link>undefinedwelcome/index.html</link>
+            <guid isPermaLink="false">2c7acd06-42fe-48ca-a287-aeef40c07b6a</guid>
+            <pubDate>Sat, 06 Feb 2016 21:24:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
